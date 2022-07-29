@@ -1,0 +1,35 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+@font-face {
+	font-family: "Dmikhak";
+	src: url("./dark-mikhak.ttf");
+}
+
+@font-face {
+	font-family: "mikhak";
+	src: url("./normal-mikhak.ttf");
+}
+
+@font-face {
+	font-family: "Tmikhak";
+	src: url("./thin-mikhak.ttf");
+}
+
+@font-face {
+	font-family: "Bmikhak";
+	src: url("./bold-mikhak.ttf");
+}
+
+@font-face {
+	font-family: "DBmikhak";
+	src: url("./dif-bold-mikhak.ttf");
+}
+
+@font-face {
+	font-family: "Mmikhak";
+	src: url("./medium-mikhak.ttf");
+}
